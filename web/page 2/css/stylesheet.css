@@ -1,0 +1,25 @@
+body
+{
+    background: url(../fon2.jpg) repeat;
+}
+h1
+{
+    font-size: 24pt;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family:  Arial;
+    text-align:left;
+    padding-top: 2vw;
+}
+p
+{
+    display: flex;
+}
+.art
+{
+
+    margin:10px;
+    border:5px solid yellow ;
+    background: red;
+    height: 50px;
+}

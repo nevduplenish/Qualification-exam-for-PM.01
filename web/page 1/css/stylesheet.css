@@ -1,0 +1,26 @@
+body
+{
+    background: url(../fon1.jpg) no-repeat;
+    background-size: 100%;
+}
+h1
+{
+    font-size: 24pt;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family:  Monotype Corsiva;
+    text-align:center;
+    padding-top: 2vw;
+}
+p
+{
+    display: flex;
+}
+.art
+{
+
+    margin:10px;
+    border:5px solid green ;
+    background: #70c6ff;
+    height: 50px;
+}
